@@ -1,13 +1,9 @@
 # 01-dwfe-aula-20260226
 
-```
-git add .
-```
+nome: Gustavo Daniel Vieira Pinheiro
 
-```
-git commit -m "texto"
-```
+matrícula: 927076
 
-```
-git push
-```
+![](./assets/img/f12dogit.png)
+
+![](./assets/img/)
